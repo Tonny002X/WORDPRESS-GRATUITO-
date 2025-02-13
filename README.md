@@ -2,4 +2,4 @@
 Web de marca personal en WordPress gratuito 
 Anthony Alban
 Marketing Digital 2do Semestre Matutino
-https://wordpress.com/export/anthonyalbanchavez.wordpress.com
+https://anthonyalbanchavez.wordpress.com
